@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="formatt.css">
+</head>
+<body>
+<h1><strong><center>Resume</center></strong></h1>
+<div class= "clearfix">
+	<div class="right">
+<img class="abi" src="abi.jpg" alt="Profile" "width:160" height="160">
+</div>
+<p><b>Name:</b>ABIRAMI.D.</p>
+<p><b>Email id:</b>abiramid.16it@kongu.edu</p>
+<p><b>Mobile No:</b>8072966074</p>
+</div>
+<h2><u>Career Objective:</u></h2>
+
+<p>To work in a software company and to ensure that I work with full of dedication and sincerity</p>
+<table border="1">
+<h2><u>Academic Details:</u></h2>
+<thead>
+<tr>
+<th><b>S.No.</b></th>
+<th><b>Qualifications</b></th>
+<th><b>Institutions</b></th>
+<th><b>Percentage</b></th>
+<th><b>Year passing</b></th>
+</tr>
+<tbody>
+<tr>
+<td>1.</td>
+<td>10th</td>
+<td>Cheran Matriculation School,Karur</td>
+<td>95.8%</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>12th</td>
+<td>Cheran Matric Higher Secondary School,Karur</td>
+<td>84.6%</td>
+<td>2016</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>B.TECH-IT</td>
+<td>Kongu Engineering College,Perundurai</td>
+<td>7.89(till fourth semester)</td>
+<td>2018</td>
+</tr>
+</tbody>
+</table>
+</body>
+<body>
+<h2><u>Area of Interest:</u></h2>
+<p>*Java Programming</p>
+</body>
+<body>
+<h2><u>Skills:</u></h2>
+<p>*Languages Known:C,C++,Java</p>
+<p>*Databases:MySQL,Oracle</p>
+<h2><u>Papers Presented:</u></h2>
+<p>*Presented a paper "Artificial Intelligence" at Madras Institute Of Technology</p>
+<p>*And "Blue Brain In "SIGNIN'17" at Kongu Engineering College"
+</p>
+<h2><u>Projects Done:</u></h2>
+<p>*Online Fees Payment" in the Open House Exhibition held at Kongu Engineering Colleg,Perundurai.</p>
+<h2><u>Co-curricular Activities:</u></h2>
+<p>*Participated in Student Of The Symposium in SIGNIN'17 an Inter Departmental technical symposium at Kongu Engineering College</p>
+<h2><u>Membership Details:</u></h2>
+<p>*Member in Android Application Development Club</p>
+<p>*And in English Profficiency Club</p>
+<h2><u>Hobbies:</u></h2>
+<p>*Listening Music</p>
+<p>*Playing Games</p>
+<h2><u>Personal Profile:</u></h2>
+<p><strong>Nationality:</strong>Indian</p> 
+<p><strong>Date of Birth & Age:</strong>21/02/1999 & 19</p>
+<p><strong>Gender:</strong>Female</p>
+<P><strong>Fathers name:</strong>Mr.S.Devarajan</p>
+<p><strong>Mothers name:</strong>Mrs.D.Bhuvaneswari</p>
+<p><strong>Address:</strong>29,c,Kubendiran Building,c.a.k.RoadKarur(DT).</P>
+<p><strong>Pincode:</strong>639001.</p>
+<p><strong>Languages Known:</strong>Tamil,English</p>
+<h2><u>Reference:</u></h2>
+<P>Dr.SVaradhaganapathy,M.S.,M.E.,ph.D.,</p>
+<p>Head of the Department,</p>
+<p>Department of Information Technology,<p>
+<p>Kongu engineering college,</p>
+<p>Perundurai,Erode-638052.</p>
+       <p><b>Place:</b>Perundurai</p>
+       <p><b>Date:</b>03/07/2018</p>
+       <p><b>[ABIRAMI.D.]</b></p>
+</body>
+</html>
